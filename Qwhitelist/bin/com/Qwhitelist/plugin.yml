@@ -1,0 +1,7 @@
+name: Qwhitelist      #插件名
+main: com.Qwhitelist.Qwhitelist    #插件的包名+主类
+version: 1.0
+commands:
+   Qwl:
+     description: Qwhitelist help
+     usage: /Qwl
