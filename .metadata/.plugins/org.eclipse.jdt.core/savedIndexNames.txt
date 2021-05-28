@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Xingxing520\Documents\程序项目\插件\Qwhitelist\.metadata\.plugins\org.eclipse.jdt.core
